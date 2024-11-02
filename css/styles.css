@@ -1,0 +1,115 @@
+.first-section {
+   background-color: #2E2F42;
+   color: #FFFFFF;
+   text-align: center;
+}
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+button:hover {
+    border-color: #4D5AE5;
+
+}
+.adr {
+    color: #434455;
+}
+.hb {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.hbl {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: #434455;
+}
+.b {
+    color: #4D5AE5;
+}
+ul {
+    font-style: normal;
+	list-style-type: none;
+}
+main p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+footer a {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
+.third-section {
+    color: #F4F4FD;
+    text-align: center;
+}
+h2 {
+    color:#2e2f42;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.third-section ul {
+    background-color: #FFFFFF;
+}
+.third-section {
+    background-color: #E7E9FC;
+}
+h1 {
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+}
+address {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+h1:hover {
+    text-decoration: underline;
+    text-decoration-color: #00c9ff;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color:#2e2f42;
+    background-color: #FFFFFF;
+}
