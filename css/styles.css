@@ -3,7 +3,7 @@
    color: #FFFFFF;
    text-align: center;
 }
-button {
+.bttn {
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-weight: 500;
@@ -13,8 +13,8 @@ button {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
 }
-button:hover,
-button:focus {
+.bttn:hover,
+.bttn:focus {
     background-color: #404BBF;
 }
 .hb {
@@ -47,34 +47,24 @@ ul {
     font-style: normal;
 	list-style-type: none;
 }
-main p {
+.pp {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-footer {
+.ftr {
     background-color: #2E2F42;
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-footer a {
-    line-height: 1.17;
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #F4F4FD;
-}
 .third-section {
     background-color: #F4F4FD;
     text-align: center;
     font-size: 16px;
 }
-h2 {
+.texxt {
     line-height: 1.11;
     color:#2e2f42;
     font-size: 36px;
@@ -89,7 +79,7 @@ h2 {
 .third-section {
     background-color: #E7E9FC;
 }
-h1 {
+.text {
     line-height: 1.07;
     font-size: 56px;
     line-height: 1.07143;
@@ -104,7 +94,7 @@ address:hover,
 address:focus {
     color: #404bbf;
 }
-h3 {
+.texxxt {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
