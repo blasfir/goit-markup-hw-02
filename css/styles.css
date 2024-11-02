@@ -25,8 +25,12 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.hb:hover,
+ .hb:focus {
+    color: #404bbf;
+}
 .hbl {
-    color: #4d5ae5;
+    color: #404bbf; 
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -36,12 +40,11 @@
     text-decoration: none;
     line-height: 1.17;
 }
-a {
-    text-decoration: none;
-    color: #434455;
-}
 .b {
     color: #f4f4fd;
+}
+.bb {
+    color: #2e2f42;
 }
 ul {
     font-style: normal;
@@ -85,13 +88,17 @@ ul {
     line-height: 1.07143;
     letter-spacing: 0.02em;
 }
-address {
+.ddrss {
+    font-style: normal;
+}
+.link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:#434455;
 }
-address:hover,
-address:focus {
+.link:hover,
+.link:focus {
     color: #404bbf;
 }
 .texxxt {
