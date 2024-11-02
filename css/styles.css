@@ -10,18 +10,15 @@ button {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     cursor: pointer;
     font-family: "Roboto", sans-serif;
 }
-button:hover {
-    border-color: #4D5AE5;
-
-}
-.adr {
-    color: #434455;
+button:hover,
+button:focus {
+    background-color: #404BBF;
 }
 .hb {
+    color: #2e2f42;
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
@@ -29,6 +26,7 @@ button:hover {
     letter-spacing: 0.02em;
 }
 .hbl {
+    color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -36,13 +34,14 @@ button:hover {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    line-height: 1.17;
 }
 a {
     text-decoration: none;
     color: #434455;
 }
 .b {
-    color: #4D5AE5;
+    color: #f4f4fd;
 }
 ul {
     font-style: normal;
@@ -52,7 +51,6 @@ main p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 footer {
     background-color: #2E2F42;
@@ -62,6 +60,7 @@ footer {
     letter-spacing: 0.02em;
 }
 footer a {
+    line-height: 1.17;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -71,15 +70,18 @@ footer a {
     color: #F4F4FD;
 }
 .third-section {
-    color: #F4F4FD;
+    background-color: #F4F4FD;
     text-align: center;
+    font-size: 16px;
 }
 h2 {
+    line-height: 1.11;
     color:#2e2f42;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 .third-section ul {
     background-color: #FFFFFF;
@@ -88,6 +90,7 @@ h2 {
     background-color: #E7E9FC;
 }
 h1 {
+    line-height: 1.07;
     font-size: 56px;
     line-height: 1.07143;
     letter-spacing: 0.02em;
@@ -96,6 +99,10 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+address:hover,
+address:focus {
+    color: #404bbf;
 }
 h3 {
     font-weight: 500;
@@ -110,6 +117,6 @@ h1:hover {
 }
 body {
     font-family: "Roboto", sans-serif;
-    color:#2e2f42;
+    color:#434455;
     background-color: #FFFFFF;
 }
