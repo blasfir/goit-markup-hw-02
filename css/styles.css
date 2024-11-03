@@ -42,7 +42,8 @@ ul {
 .link:focus,
 .nav-link:hover,
 .nav-link:focus {
-    color: #404bbf;
+    text-decoration: underline;
+    text-decoration-color: #4d5ae5;
 }
 .first-section {
    background-color: #2E2F42;
