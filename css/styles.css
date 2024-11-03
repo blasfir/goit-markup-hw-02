@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 .logo {
-    color: #404bbf; 
+    color: #4d5ae5; 
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -14,8 +14,11 @@ body {
     text-decoration: none;
     line-height: 1.17;
 }
-.studio {
+.blacklogo {
     color: #2e2f42;
+}
+.studio {
+
 }
 .links {
     color: #2e2f42;
@@ -89,12 +92,12 @@ body {
     letter-spacing: 0.02em;
 }
 .third-section {
-    background-color: #E7E9FC;
+    background-color: #F4F4FD;
     text-align: center;
     font-size: 16px;
 }
-.third-section ul {
-    background-color: #FFFFFF;
+.list {
+    background-color:#FFFFFF;
 }
 .footr {
     background-color: #2E2F42;
@@ -103,6 +106,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.studiio {
+.whitelogo {
     color: #f4f4fd;
 }
