@@ -39,7 +39,9 @@ ul {
     color:#434455;
 }
 .link:hover,
-.link:focus {
+.link:focus,
+.nav-link:hover,
+.nav-link:focus {
     text-decoration: underline;
     text-decoration-color: #404bbf;
 }
