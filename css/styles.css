@@ -43,7 +43,7 @@ ul {
 .nav-link:hover,
 .nav-link:focus {
     text-decoration: underline;
-    text-decoration-color: #4d5ae5;
+    color: #4d5ae5;
 }
 .first-section {
    background-color: #2E2F42;
