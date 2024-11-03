@@ -52,7 +52,6 @@ ul {
 .text {
     line-height: 1.07;
     font-size: 56px;
-    line-height: 1.07143;
     letter-spacing: 0.02em;
 }
 .text:hover,
@@ -78,7 +77,6 @@ ul {
     line-height: 1.11;
     color:#2e2f42;
     font-size: 36px;
-    line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
