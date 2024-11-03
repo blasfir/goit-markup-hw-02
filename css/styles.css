@@ -42,7 +42,6 @@ ul {
 .link:focus,
 .nav-link:hover,
 .nav-link:focus {
-    text-decoration: underline;
     color: #4d5ae5;
 }
 .first-section {
