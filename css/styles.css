@@ -54,6 +54,7 @@ ul {
     line-height: 1.07;
     font-size: 56px;
     line-height: 1.07143;
+    letter-spacing: 0.02em;
 }
 .text:hover,
 .text:focus {
